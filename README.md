@@ -1,7 +1,7 @@
 # Complete-Data-Analytics-with-Projects
 This repository contains everything you need to become proficient in Data Analytics
 
-Start here : [Day1 of Data Analytics](https://medium.com/coders-mojo/day-1-of-30-days-of-data-analytics-with-projects-series-6c2f939ec865?sk=55671d964311268ae548dbdac902ebe5)
+Start here : [Day1 of Data Analytics Series](https://medium.com/coders-mojo/day-1-of-30-days-of-data-analytics-with-projects-series-6c2f939ec865?sk=55671d964311268ae548dbdac902ebe5)
 
 1. Business Understanding
 
