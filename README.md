@@ -137,73 +137,72 @@ Start here : [Day1 of Data Analytics Series](https://medium.com/coders-mojo/day-
 
 [Data Profiling](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-[Categorical and Numerical Features]()
+[Categorical and Numerical Features](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-[Missing Value Analysis]()
+[Missing Value Analysis](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-[Unique Value Analysis]()
+[Unique Value Analysis](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-[Univariate Analysis]()
+[Univariate Analysis](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-[Bivariate Analysis]()
+[Bivariate Analysis](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-[Multivariate Analysis]()
+[Multivariate Analysis](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-[Day 25: Data Analytics Project 11]()
+[Day 25: Data Analytics Project 11](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
-[Summary Functions]()
+[Summary Functions](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
-[Indexing]()
+[Indexing](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
-[Grouping]()
+[Grouping](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
-[Sorting]()
+[Sorting](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
-[Data Profiling]()
+[Data Profiling](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
-[Categorical and Numerical Features]()
+[Categorical and Numerical Features](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
-[Missing Value Analysis]()
+[Missing Value Analysis](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
-[Unique Value Analysis]()
+[Unique Value Analysis](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
-[Data Visualization]()
+[Data Visualization](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
-[Correlation Coefficients]()
+[Correlation Coefficients](https://medium.com/coders-mojo/project-11-day-25-of-30-days-of-data-analytics-with-projects-series-ee6f16db5d59?sk=d6a03230090f77bcadc2918207899cd0)
 
-[Day 26: Power BI]()
+[Day 26: Power BI](https://medium.com/coders-mojo/day-26-of-30-days-of-data-analytics-with-projects-series-power-bi-20cfb26a34be?sk=885dd316a5be71677327dfce75b3f87d)
 
-[Day 27: Performance Metrics]()
+[Day 27: Performance Metrics](https://medium.com/coders-mojo/day-27-of-30-days-of-data-analytics-with-projects-series-performance-metrics-9f0abdd7b9dd?sk=c15c32be4bbb498818d32ac92c72c529)
 
-[Day 28: Regression]()
+[Day 28: Regression](https://medium.com/coders-mojo/day-28-of-30-days-of-data-analytics-with-projects-series-regression-part-1-e525680782d9?sk=57d3774ca59e7eb7971a567b4005cf78)
 
-[Linear Regression]()
+[Linear Regression](https://medium.com/coders-mojo/day-28-of-30-days-of-data-analytics-with-projects-series-regression-part-1-e525680782d9?sk=57d3774ca59e7eb7971a567b4005cf78)
 
-[Multi Linear Regression]()
+[Multi Linear Regression](https://medium.com/coders-mojo/day-28-of-30-days-of-data-analytics-with-projects-series-regression-part-1-e525680782d9?sk=57d3774ca59e7eb7971a567b4005cf78)
 
-[Polynomial Regression]()
+[Polynomial Regression](https://medium.com/coders-mojo/day-28-of-30-days-of-data-analytics-with-projects-series-regression-part-1-e525680782d9?sk=57d3774ca59e7eb7971a567b4005cf78)
 
-[Day 29: Regression]()
+[Day 29: Regression](https://medium.com/coders-mojo/day-29-of-30-days-of-data-analytics-with-projects-series-regression-part-2-48783d03da21?sk=97f4cdd6f04de3ab584773e435cca757)
 
-[Support Vector Regression]()
+[Support Vector Regression](https://medium.com/coders-mojo/day-29-of-30-days-of-data-analytics-with-projects-series-regression-part-2-48783d03da21?sk=97f4cdd6f04de3ab584773e435cca757)
 
-[Decision Tree Regression]()
+[Decision Tree Regression](https://medium.com/coders-mojo/day-29-of-30-days-of-data-analytics-with-projects-series-regression-part-2-48783d03da21?sk=97f4cdd6f04de3ab584773e435cca757)
 
-[Random Forest Regression]()
+[Random Forest Regression](https://medium.com/coders-mojo/day-29-of-30-days-of-data-analytics-with-projects-series-regression-part-2-48783d03da21?sk=97f4cdd6f04de3ab584773e435cca757)
 
-[Day 30: Classification]()
+[Day 30: Classification](https://medium.com/coders-mojo/day-30-of-30-days-of-data-analytics-with-projects-series-classification-ba0326b5151b?sk=7ff8ff12c31a15e4396eedc2a7eb768e)
 
-[Naive Bayes]()
+[Naive Bayes](https://medium.com/coders-mojo/day-30-of-30-days-of-data-analytics-with-projects-series-classification-ba0326b5151b?sk=7ff8ff12c31a15e4396eedc2a7eb768e)
 
-[Random Forest]()
+[Random Forest](https://medium.com/coders-mojo/day-30-of-30-days-of-data-analytics-with-projects-series-classification-ba0326b5151b?sk=7ff8ff12c31a15e4396eedc2a7eb768e)
 
-[Missing Value Analysis]()
+[Missing Value Analysis](https://medium.com/coders-mojo/day-30-of-30-days-of-data-analytics-with-projects-series-classification-ba0326b5151b?sk=7ff8ff12c31a15e4396eedc2a7eb768e)
 
-[Unique Value Analysis]()
+[Unique Value Analysis](https://medium.com/coders-mojo/day-30-of-30-days-of-data-analytics-with-projects-series-classification-ba0326b5151b?sk=7ff8ff12c31a15e4396eedc2a7eb768e)
 
-Take Complete Hands On Tableau Course : [Link]()
+Take Complete Hands On Tableau Course : [Link](https://www.udemy.com/course/complete-tableau-2021-hands-on-tableau-for-data-science/)
 
-[Projects]()
 
 -----------------------
 
