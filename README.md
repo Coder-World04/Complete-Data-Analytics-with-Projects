@@ -3,177 +3,207 @@ This repository contains everything you need to become proficient in Data Analyt
 
 Start here : [Day1 of Data Analytics Series](https://medium.com/coders-mojo/day-1-of-30-days-of-data-analytics-with-projects-series-6c2f939ec865?sk=55671d964311268ae548dbdac902ebe5)
 
-1. Business Understanding
+[Day 1 : Data Analytics basics and kickstart of Data analytics with projects series](https://medium.com/coders-mojo/day-1-of-30-days-of-data-analytics-with-projects-series-6c2f939ec865?sk=55671d964311268ae548dbdac902ebe5)
 
-Data Driven Decision
+[Day 2: Business Understanding — Data Driven Decision Making, Descriptive Analysis, Predictive Analysis, Diagnostic Analysis, Prescriptive Analysis](https://medium.com/coders-mojo/day-2-of-30-days-of-data-analytics-with-projects-series-9127b3ebd17a?sk=97e9632fb10a4862a03bd9b9073c2f50)
 
-How to formulate solutions to business problems?
+[Day 3 : Data Analytics Ecosystem — Data Life Cycle, Data Analysis complete process ( most important things)](https://medium.com/coders-mojo/day-3-of-30-days-of-data-analytics-with-projects-series-b3f1f7b67bfb)
 
-Descriptive Analysis
+[Day 4 : Probability, Conditional Probability, Binomial Distribution, Probability Density Function, Sampling Distribution](https://medium.com/coders-mojo/day-4-of-30-days-of-data-analytics-with-projects-series-ebf27d35ba71?sk=595261f8399a845b76d931c744aea20b)
 
-Predictive Analysis
+[Day 5 : Statistics](https://medium.com/coders-mojo/day-5-of-30-days-of-data-analytics-with-projects-series-2f91895e5be9?sk=b7f01bece5abbbb721a7c801f9fccf6b)
 
-Diagnostic Analysis
+[Day 6 : Basic and Advanced SQL](https://medium.com/coders-mojo/day-6-of-30-days-of-data-analytics-with-projects-series-bd8265f30684?sk=73ce1d0cc7d9d43fb7b1bd2e40f1611b)
 
-Prescriptive Analysis
+[Day 7 : Data Collection, Data Cleaning and Python](https://medium.com/coders-mojo/day-7-of-30-days-of-data-analytics-with-projects-series-53d8d858f1b6?sk=881ab7e84076c1983108476294fc3c2a)
 
-2. Data Analytics Ecosystem
+[Day 8 : Pandas and Numpy](https://medium.com/coders-mojo/day-8-of-30-days-of-data-analytics-with-projects-series-91f44c5b3a6a?sk=524cc08de0db2cac4b0202031565c69c)
 
-Data Life Cycle
+[Day 9 : Data Manipulation](https://medium.com/coders-mojo/day-9-of-30-days-of-data-analytics-with-projects-series-ab93f4fdcb1d?sk=93dd5e5b92410b1311fd91ed854db61f)
 
-Data Analysis complete process — step by step
+[Day 10 : Data Visualization — Part 1](https://medium.com/coders-mojo/day-10-of-30-days-of-data-analytics-with-projects-series-ddcb480fd60e?sk=98ca498a00ff03392c4fe25caadc091b)
 
-3. Probability
+[Day 11 : Project 1 : Data Visualization — Part 2](https://medium.com/coders-mojo/day-11-of-30-days-of-data-analytics-with-projects-series-c0bcba787dc3?sk=cc7d4d8d7c1382a47ccbd5c43df3fc31)
 
-Basic Probability
+[Day 12 : Data Visualization — Part 3](https://medium.com/coders-mojo/day-12-of-30-days-of-data-analytics-with-projects-series-122bcfda8261?sk=172b695ed5cb7136886aff15b29cc891)
 
-Advanced Probability
+[Day 13: Tableau — Part 1](https://medium.com/coders-mojo/day-13-of-30-days-of-data-analytics-with-projects-series-3a3d8fcccb79?sk=f17c6d146d0c0c9922f5e5185690a3b0)
 
-4. Statistics
+[Day 14: Tableau — Part 2](https://medium.com/coders-mojo/day-14-of-30-days-of-data-analytics-with-projects-series-37dec2e38dac?sk=95359d7f13e7910b4c98b4fc72619044)
 
-Must know Statistics topics
+[Day 15: Tableau — Part 3](https://medium.com/coders-mojo/day-15-of-30-days-of-data-analytics-with-projects-series-1d779d1008b3?sk=03309c9abdd5fe5b5ad24d61b8db2a13)
 
-5. Basic SQL
+[Day 16 : Data Analysis Project 2](https://medium.com/coders-mojo/project-day-16-of-30-days-of-data-analytics-with-projects-series-6992a946c868?sk=0be0825d7d944a67fc779fea277c0f98)
 
-Must know SQL basics
+[Day 17 : Data Analysis Project 3](https://medium.com/coders-mojo/project-3-day-17-of-30-days-of-data-analytics-with-projects-series-a76e254a4b65?sk=0b141a399d22f44c85975ec285efb95b)
 
-6. Advanced SQL
+[Day 18: Data Analysis Project 4](https://medium.com/coders-mojo/project-4-day-18-of-30-days-of-data-analytics-with-projects-series-614b8a575d32?sk=2ca301772f1048d767a9947fc3caefda)
 
-Must know Advanced SQL
+[Day 19: Data Analysis Project 5](https://medium.com/coders-mojo/project-5-day-19-of-30-days-of-data-analytics-with-projects-series-407255f6ab56?sk=bf8aa373bd2d3611b7f6ee384025a925)
 
-7. Data Collection
+[Day 20 : Data Analysis Project 6 — Part 1](https://medium.com/coders-mojo/project-6-day-20-of-30-days-of-data-analytics-with-projects-series-7f80a9753354?sk=97746824884dbab0803e69170df937b2)
 
-Web scraping
+[Categorical and Numerical Features](https://medium.com/coders-mojo/project-6-day-20-of-30-days-of-data-analytics-with-projects-series-7f80a9753354?sk=97746824884dbab0803e69170df937b2)
 
-8. Data Cleaning
+[Missing Value Analysis](https://medium.com/coders-mojo/project-6-day-20-of-30-days-of-data-analytics-with-projects-series-7f80a9753354?sk=97746824884dbab0803e69170df937b2)
 
-Python
+[Fill the missing Values](https://medium.com/coders-mojo/project-6-day-20-of-30-days-of-data-analytics-with-projects-series-7f80a9753354?sk=97746824884dbab0803e69170df937b2)
 
-Pandas
+[Unique Value Analysis](https://medium.com/coders-mojo/project-6-day-20-of-30-days-of-data-analytics-with-projects-series-7f80a9753354?sk=97746824884dbab0803e69170df937b2)
 
-Numpy
+[Univariate Analysis](https://medium.com/coders-mojo/project-6-day-20-of-30-days-of-data-analytics-with-projects-series-7f80a9753354?sk=97746824884dbab0803e69170df937b2)
 
-9. Data Manipulation
+[Bivariate Analysis](https://medium.com/coders-mojo/project-6-day-20-of-30-days-of-data-analytics-with-projects-series-7f80a9753354?sk=97746824884dbab0803e69170df937b2)
 
-Join
+[Multivariate Analysis](https://medium.com/coders-mojo/project-6-day-20-of-30-days-of-data-analytics-with-projects-series-7f80a9753354?sk=97746824884dbab0803e69170df937b2)
 
-Melt
+[Correlation Analysis](https://medium.com/coders-mojo/project-6-day-20-of-30-days-of-data-analytics-with-projects-series-7f80a9753354?sk=97746824884dbab0803e69170df937b2)
 
-Cut
+[Day 21 : Data Analysis Project 7](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Transform
+[Data Profiling](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Clean
+[Feature Engineering](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Slicing
+[GroupBy Features](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Reshaping
+[Categorical and Numerical Features](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Filter
+[Missing Value Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Group by
+[Fill the missing Values](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Pivot and Merge
+[Unique Value Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Concatenate
+[Univariate Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-MultiIndexing
+[Bivariate Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Stacking
+[Multivariate Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Hierarchical indexing
+[Correlation Analysis](https://medium.com/coders-mojo/project-7-day-21-of-30-days-of-data-analytics-with-projects-series-ce24f02de56f?sk=66b7bfb40c9aaaf897ed8d7373d85bf6)
 
-Aggregate
+[Day 22 : Data analysis Project 8](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-Summarize data
+[Linear Regression](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-10. Data Calculations
+[Data Profiling](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-11. Data Aggregations
+[Feature Engineering](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-12. Data Visualization
+[Sort Values](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-Data Visualization basics
+[Categorical and Numerical Features](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-Which chart to choose and when?
+[Missing Value Analysis](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-Data Visualization using Matplotlib and Seaborn
+[Unique Value Analysis](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-Data Visualization using Plotly and Folium
+[Univariate Analysis](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-Data Visualization using Bokeh
+[Bivariate Analysis](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-13. Tableau
+[Multivariate Analysis](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-Tableau Basics
+[Correlation Analysis](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-Create trend lines and understand the relevant statistical metrics such as p-value and R-squared
+[Correlation Coefficients](https://medium.com/coders-mojo/project-8-day-22-of-30-days-of-data-analytics-with-projects-series-dc8f463adac6?sk=2a7ac02cb6f0c6be7568c1ba5c2552b5)
 
-Create forecasts, Barcharts, Area Charts, Box and Whisker
+[Day 23: Data Analytics Project 9](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
 
-Create Histogram, Bullet Chart, Bubbles Chart, Funnel Charts, Advanced Charts
+[Linear Regression](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
 
-Create Scatterplots , Piecharts, Treemaps
+[Data Profiling](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
 
-Create Maps — Detailed Maps, Symbol Maps, Density Maps
+[Correlation Coefficients](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
 
-Create Advanced Maps
+[Spearman’s ρ](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
 
-Create Interactive Dashboards
+[Pearson’s r](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
 
-Create Storylines
+[Kendall’s τ](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
 
-Work with Data Blending in Tableau
+[Cramér’s V (φc)](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
 
-Create Table Calculations
+[Phik (φk)](https://medium.com/coders-mojo/project-9-day-23-of-30-days-of-data-analytics-with-projects-series-6747f695d570?sk=9c51bec759e96404208cebf448409adc)
 
-Create Dual Axis Charts
+[Day 24: Data Analytics Project 10](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-Create Calculated Fields
+[Standardization](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-Create Visualizations using Calculated Fields
+[Encoding](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-Tableau String Functions
+[Linear Regression](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-Tableau Date Functions
+[Data Profiling](https://medium.com/coders-mojo/project-10-day-24-of-30-days-of-data-analytics-with-projects-series-7614ea846ab0?sk=3ff451f1dd67c846b5064395dde49f0a)
 
-Tableau Type Conversion
+[Categorical and Numerical Features]()
 
-Tableau Reporting
+[Missing Value Analysis]()
 
-Implement Aggregation, Granularity, and Level of Detail
+[Unique Value Analysis]()
 
-Create and use Groups
+[Univariate Analysis]()
 
-Create and add Filters and Quick Filters
+[Bivariate Analysis]()
 
-Create Reference Lines with Parameters
+[Multivariate Analysis]()
 
-Implement Clustering
+[Day 25: Data Analytics Project 11]()
 
-Implement Filters, including the context filter
+[Summary Functions]()
 
-Implement Grouping & Sets
+[Indexing]()
 
-14. Data Preparation
+[Grouping]()
 
-15. Data Modeling
+[Sorting]()
 
-16. Data Evaluation
+[Data Profiling]()
 
-17. Statistical Analysis
+[Categorical and Numerical Features]()
 
-18. Regression analysis
+[Missing Value Analysis]()
 
-19. Least squares and inference
+[Unique Value Analysis]()
 
-20. Regression models
+[Data Visualization]()
 
-21. Big Data Analytics
+[Correlation Coefficients]()
 
-21. Classification Trees
+[Day 26: Power BI]()
 
-22. Projects
+[Day 27: Performance Metrics]()
+
+[Day 28: Regression]()
+
+[Linear Regression]()
+
+[Multi Linear Regression]()
+
+[Polynomial Regression]()
+
+[Day 29: Regression]()
+
+[Support Vector Regression]()
+
+[Decision Tree Regression]()
+
+[Random Forest Regression]()
+
+[Day 30: Classification]()
+
+[Naive Bayes]()
+
+[Random Forest]()
+
+[Missing Value Analysis]()
+
+[Unique Value Analysis]()
+
+Take Complete Hands On Tableau Course : [Link]()
+
+[Projects]()
 
 -----------------------
 
